@@ -234,9 +234,9 @@ N/A
 
 ## References
 
-- [0] <https://www.w3.org/TR/did-core/>
-- [1] <https://github.com/hashgraph/did-method>
-- [2] <https://www.w3.org/TR/vc-data-model/>
+0. <https://www.w3.org/TR/did-core/>
+1. <https://github.com/hashgraph/did-method>
+2. <https://www.w3.org/TR/vc-data-model/>
 
 ## Copyright/license
 
